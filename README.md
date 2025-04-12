@@ -1,4 +1,4 @@
-###Expense Tracker (Mini Project -1)
+###Expense Tracker (Mini Project -1)###
 
 ##Overview
 
