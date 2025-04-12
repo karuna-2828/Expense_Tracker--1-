@@ -13,3 +13,43 @@ It’s designed for learners and professionals to strengthen their understanding
 ### 💰 Financial Management Tool:
 
 As a real-world personal finance application, it enables users to track income and expenses, categorize financial transactions, and visualize trends over time — making it a valuable tool for personal budgeting and decision-making.
+
+## 🔍Core Features:
+A relational SQL database with normalized schema for managing expenses and income
+
+### Scripts for:
+
+* Database creation
+
+* Sample data insertion (manual + Faker-generated)
+
+* Basic and advanced SQL queries
+
+### A Streamlit-powered interactive dashboard for:
+
+* Filtering transactions
+
+* Viewing summaries and statistics
+
+* Visualizing trends and categories
+
+### Real-world insights like:
+
+* Monthly income vs. expenses
+
+* Category-wise spending
+
+* Anomaly detection in financial behavior
+
+## 🛠️ Tech Stack:
+* SQL (SQLite or PostgreSQL) – Core database logic
+
+* Python – For scripting, data generation, and analytics
+
+* Streamlit – Interactive UI/UX for the dashboard
+
+* Faker – For realistic data simulation
+
+* Matplotlib/Seaborn – For visual insights
+
+* Pandas – Data wrangling and aggregation
