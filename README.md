@@ -153,7 +153,87 @@ The Streamlit app acts as the frontend layer of the project, allowing users to:
 No command-line knowledge is required to use the app. Users simply launch the dashboard and start interacting with their financial data using sliders, buttons, and dropdowns. All data is displayed in a way that is digestible and visually engaging.
 
 ### 📷 Sample Dashboard Screenshots:
-**Project Introduction Page:**
+### Project Introduction:
+
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/33894532-78eb-42a2-957f-3f083709c620" />
+
+### Expense Data Visualization
+
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/6a8f32d4-f407-4576-9f2c-66f2130883c0" />
+
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/2dd7bad7-bc04-4e59-ab72-80c920e1df7f" />
+
+
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/6bf0c1ab-2d83-4200-9770-26ae8f96951f" />
+
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/ba7188ee-7f90-4594-8782-241b8d4316ca" />
+
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/a4a0c7d0-8d5e-4e04-b9b4-6f99fc38a386" />
+
+
+
+### SQL Query Results and Visualizations
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/16c77d78-2423-4778-9e5b-f0c4a63548c6" />
+
+<img width="914" alt="image" src="https://github.com/user-attachments/assets/e33dd0b7-4cfd-472a-97fc-55c6cd18bf24" />
+
+
+
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/7126af4e-fe5d-42c8-aea2-5421703b3d37" />
+
+
+### Query Visualizations
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/53406a90-8baf-4bcf-9fd1-99f12f16fb0a" />
+
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/32a52bc3-4fd6-4102-9735-322b99fa6b0f" />
+
+### Creator info
+
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/ca5a1bef-90c3-41f1-bc8f-faa72bf5b5cb" />
+
+
+## ✅ Conclusion
+The Personal Expense Tracker SQL Project seamlessly integrates data generation, database management, and interactive visualization to provide a comprehensive solution for personal financial analysis. It serves a dual purpose — both as a practical financial tool and a learning project for mastering SQL, Python, and data visualization.
+
+Through the use of:
+
+* Faker library for generating realistic mock data,
+
+* SQLite3 for lightweight yet powerful relational database management,
+
+* Pandas and SQL queries for in-depth data analysis,
+
+* and Streamlit for building an interactive and intuitive dashboard,
+
+This project empowers users to explore their financial patterns, identify areas of high spending, and make informed decisions.
+
+Whether you're a beginner learning SQL or someone looking to manage your finances better, this project provides hands-on experience with real-world datasets and workflows. It also lays a strong foundation for integrating more advanced technologies like cloud databases, automated data pipelines, and mobile-friendly interfaces.
+
+### 💡 Final Takeaway:
+This project showcases how combining structured data, clean code, and effective visualization can turn raw transactions into meaningful financial insights — helping users take control of their spending, savings, and future planning.
+
+## 🔮 Future Work
+This project is designed to grow with the user’s skills and requirements. Here are several ideas for enhancing the functionality and scope of the Expense Tracker in the future:
+
+* User Authentication & Multi-user Support
+<br /> Add login functionality to allow personalized dashboards for multiple users.
+
+* Automated Data Import
+<br /> Integrate APIs or CSV upload features to import real banking transactions automatically.
+
+* Monthly Budgeting Module
+<br /> Allow users to set budget goals and visually track their performance.
+
+* Mobile and Responsive Interface
+<br /> Make the Streamlit dashboard responsive for mobile and tablet views.
+
+* Cloud Database Integration
+<br /> Transition from SQLite to a cloud-based database like PostgreSQL or Firebase for real-time data access and scalability.
+
+* Machine Learning Insights
+<br /> Add anomaly detection or predictive analytics to forecast future expenses or flag unusual spending patterns.
 
 
 
