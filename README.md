@@ -120,7 +120,7 @@ The Streamlit app acts as the frontend layer of the project, allowing users to:
 ### 🛠️ Key Features
 * Dashboard Layout: A clean, modern interface with intuitive navigation and interactive elements.
 
-*Live Data Querying: Direct connection to the SQLite3 database allows real-time data updates.
+* Live Data Querying: Direct connection to the SQLite3 database allows real-time data updates.
 
 * Visualizations:
 
